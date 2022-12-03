@@ -378,7 +378,7 @@ body {
 @media (max-width: 767.98px) {
   .header__logo {
     order: 1;
-    width: 7%;
+    width: 30px;
     padding-top: 0;
   }
 }
